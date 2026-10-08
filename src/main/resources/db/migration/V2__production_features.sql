@@ -1,0 +1,1 @@
+-- New statuses and document activity types are persisted as VARCHAR, so no PostgreSQL enum migration is required.
